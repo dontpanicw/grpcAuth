@@ -122,7 +122,4 @@ token_ttl = "1h"
 make test
 ```
 
-## Лицензия
-
-MIT
 
