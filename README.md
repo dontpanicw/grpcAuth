@@ -8,19 +8,13 @@
 - Аутентификация пользователей
 - Управление JWT токенами
 - gRPC API для интеграции с другими сервисами
-- SQLite в качестве хранилища данных
 
-## Требования
-
-- Go 1.23.4 или выше
-- SQLite3
-- Make (для использования Makefile)
 
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/dontpanicw/grpcAuth
 cd sso
 ```
 
